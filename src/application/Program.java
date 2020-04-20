@@ -48,6 +48,7 @@ public class Program {
 			System.out.println(String.format("%.2f", obj.area()));
 		}
 		
+		
 		input.close();
 	}
 
